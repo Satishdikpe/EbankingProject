@@ -1,0 +1,16 @@
+2022-Apr-30 22:44:45 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - User Name Entered 
+2022-Apr-30 22:44:46 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Password Entered 
+2022-Apr-30 22:44:52 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - clicked on loginbutton  
+2022-Apr-30 22:44:52 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Login passesd
+2022-Apr-30 22:44:57 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - User Name Entered 
+2022-Apr-30 22:44:57 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Password Entered 
+2022-Apr-30 22:44:58 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - clicked on loginbutton  
+2022-Apr-30 22:44:58 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Login Failed
+2022-Apr-30 22:45:02 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - User Name Entered 
+2022-Apr-30 22:45:03 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Password Entered 
+2022-Apr-30 22:45:04 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - clicked on loginbutton  
+2022-Apr-30 22:45:04 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Login Failed
+2022-Apr-30 22:45:07 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - User Name Entered 
+2022-Apr-30 22:45:07 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Password Entered 
+2022-Apr-30 22:45:08 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - clicked on loginbutton  
+2022-Apr-30 22:45:08 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_002 - Login Failed

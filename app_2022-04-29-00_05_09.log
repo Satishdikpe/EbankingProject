@@ -1,0 +1,4 @@
+2022-Apr-29 00:05:38 am [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - User name Entered
+2022-Apr-29 00:05:38 am [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - Password entered
+2022-Apr-29 00:05:50 am [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - clicked on sign in
+2022-Apr-29 00:05:50 am [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - Test case passed

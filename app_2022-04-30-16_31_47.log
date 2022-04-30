@@ -1,0 +1,4 @@
+2022-Apr-30 16:32:10 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - Username Given
+2022-Apr-30 16:32:11 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - password Given
+2022-Apr-30 16:32:17 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - clicked on the login
+2022-Apr-30 16:32:36 pm [main] INFO  com.inetbanking.testCases.TC_Logintest_001 - Filled custemer details
